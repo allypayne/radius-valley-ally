@@ -1,0 +1,99 @@
+,kepler_name,kepid,system,# TTV,# non TTV,size_sys,circumbinary_flag,# stars,eccentricity,eccentric?
+7,Kepler-235 d,4139816,Kepler-235 ,0,4,4,0,1,"[None, None, None, None]",False
+8,Kepler-235 e,4139816,Kepler-235 ,0,4,4,0,1,"[None, None, None, None]",False
+10,Kepler-236 c,4725681,Kepler-236 ,0,2,2,0,1,"[None, None]",False
+17,Kepler-716 c,7678434,Kepler-716 ,0,2,2,0,1,"[None, None]",False
+24,Kepler-253 b,8689373,Kepler-253 ,0,3,3,0,1,"[None, None, None]",False
+25,Kepler-256 b,9466668,Kepler-256 ,0,4,4,0,1,"[None, None, None, None]",False
+27,Kepler-260 b,2854698,Kepler-260 ,0,2,2,0,1,"[None, None]",False
+30,Kepler-262 c,1718189,Kepler-262 ,0,2,2,0,1,"[None, None]",False
+32,Kepler-760 c,8222813,Kepler-760 ,0,2,2,0,1,"[None, None]",False
+36,Kepler-763 d,10141900,Kepler-763 ,0,3,3,0,1,"[0.0, 0.0, None]",False
+42,Kepler-272 c,10426656,Kepler-272 ,0,3,3,0,1,"[None, None, None]",False
+43,Kepler-273 b,10468940,Kepler-273 ,0,2,2,0,1,"[None, None]",False
+45,Kepler-273 c,10468940,Kepler-273 ,0,2,2,0,1,"[None, None]",False
+47,Kepler-280 b,6690082,Kepler-280 ,0,2,2,0,1,"[None, None]",False
+50,Kepler-301 d,11389771,Kepler-301 ,0,3,3,0,1,"[None, None, None]",False
+57,Kepler-804 b,8628758,Kepler-804 ,0,2,2,0,1,"[None, None]",False
+59,Kepler-825 c,4275721,Kepler-825 ,0,2,2,0,1,"[None, None]",False
+60,Kepler-113 b,12252424,Kepler-113 ,0,2,2,0,1,"[None, None]",False
+64,Kepler-311 b,10055126,Kepler-311 ,0,3,3,0,1,"[None, None, 0.0]",False
+68,Kepler-306 b,5438099,Kepler-306 ,0,4,4,0,1,"[None, None, None, None]",False
+81,Kepler-887 b,4741126,Kepler-887 ,0,2,2,0,1,"[None, None]",False
+84,Kepler-1669 c,4770365,Kepler-1669 ,0,3,3,0,1,"[None, None, 0.0]",False
+89,Kepler-331 b,4263293,Kepler-331 ,0,3,3,0,1,"[None, None, None]",False
+92,Kepler-968 b,11853878,Kepler-968 ,0,2,2,0,1,"[None, None]",False
+95,Kepler-345 c,9412760,Kepler-345 ,0,2,2,0,1,"[None, None]",False
+103,Kepler-337 c,10136549,Kepler-337 ,0,2,2,0,1,"[None, None]",False
+105,Kepler-339 b,10978763,Kepler-339 ,0,3,3,0,1,"[None, None, None]",False
+109,Kepler-319 b,4644952,Kepler-319 ,0,3,3,0,1,"[None, None, None]",False
+110,Kepler-329 c,8978528,Kepler-329 ,0,2,2,0,1,"[None, None]",False
+114,Kepler-349 b,8564674,Kepler-349 ,0,2,2,0,1,"[None, None]",False
+115,Kepler-349 c,8564674,Kepler-349 ,0,2,2,0,1,"[None, None]",False
+118,Kepler-352 c,9489524,Kepler-352 ,0,3,3,0,1,"[None, None, None]",False
+120,Kepler-322 c,8277797,Kepler-322 ,0,2,2,0,1,"[None, None]",False
+121,Kepler-323 c,2989404,Kepler-323 ,0,2,2,0,1,"[0.095, 0.095]",False
+122,Kepler-323 b,2989404,Kepler-323 ,0,2,2,0,1,"[0.095, 0.095]",False
+130,Kepler-381 c,8013439,Kepler-381 ,0,3,3,0,1,"[None, None, None]",False
+136,Kepler-377 c,3661886,Kepler-377 ,0,2,2,0,1,"[None, None]",False
+143,Kepler-373 b,12058204,Kepler-373 ,0,2,2,0,1,"[None, None]",False
+144,Kepler-374 c,6871071,Kepler-374 ,0,3,3,0,1,"[None, None, None]",False
+145,Kepler-357 b,8164257,Kepler-357 ,0,3,3,0,1,"[None, None, None]",False
+146,Kepler-363 d,6021193,Kepler-363 ,0,3,3,0,1,"[None, None, None]",False
+147,Kepler-363 c,6021193,Kepler-363 ,0,3,3,0,1,"[None, None, None]",False
+148,Kepler-374 b,6871071,Kepler-374 ,0,3,3,0,1,"[None, None, None]",False
+150,Kepler-1181 b,4458082,Kepler-1181 ,0,2,2,0,1,"[None, 0.0]",False
+153,Kepler-120 b,4249725,Kepler-120 ,0,2,2,0,1,"[None, None]",False
+159,Kepler-120 c,4249725,Kepler-120 ,0,2,2,0,1,"[None, None]",False
+160,Kepler-366 c,11308499,Kepler-366 ,0,2,2,0,1,"[None, None]",False
+177,Kepler-389 b,8753896,Kepler-389 ,0,2,2,0,1,"[None, None]",False
+178,Kepler-446 b,8733898,Kepler-446 ,0,3,3,0,1,"[0.0, 0.0, 0.0]",False
+179,Kepler-445 c,9730163,Kepler-445 ,0,3,3,0,1,"[0.0, 0.0, 0.0]",False
+182,Kepler-400 b,5272233,Kepler-400 ,0,2,2,0,1,"[None, None]",False
+184,Kepler-1321 d,9837661,Kepler-1321 ,0,3,3,0,1,"[None, None, None]",False
+185,Kepler-1322 b,9092504,Kepler-1322 ,0,2,2,0,1,"[None, None]",False
+190,Kepler-100 d,6521045,Kepler-100 ,0,3,3,0,1,"[None, None, None]",False
+192,Kepler-449 b,6528464,Kepler-449 ,0,2,2,0,1,"[0.03, 0.05]",False
+197,Kepler-1315 b,9475552,Kepler-1315 ,0,2,2,0,1,"[None, None]",False
+198,Kepler-1315 c,9475552,Kepler-1315 ,0,2,2,0,1,"[None, None]",False
+200,Kepler-520 b,6289257,Kepler-520 ,0,2,2,0,1,"[None, None]",False
+201,Kepler-144 b,7175184,Kepler-144 ,0,2,2,0,1,"[None, None]",False
+202,Kepler-144 c,7175184,Kepler-144 ,0,2,2,0,1,"[None, None]",False
+203,Kepler-137 b,7419318,Kepler-137 ,0,2,2,0,1,"[None, None]",False
+207,Kepler-140 c,9881662,Kepler-140 ,0,2,2,0,1,"[None, None]",False
+208,Kepler-524 b,11361646,Kepler-524 ,0,2,2,0,1,"[None, None]",False
+209,Kepler-93 b,3544595,Kepler-93 ,0,2,2,0,1,"[None, 0.0]",False
+211,Kepler-141 c,10552611,Kepler-141 ,0,2,2,0,1,"[None, None]",False
+217,Kepler-134 b,11547513,Kepler-134 ,0,2,2,0,1,"[None, None]",False
+221,Kepler-190 c,8616637,Kepler-190 ,0,2,2,0,1,"[None, None]",False
+223,Kepler-179 b,10554999,Kepler-179 ,0,2,2,0,1,"[None, None]",False
+227,Kepler-155 c,12302530,Kepler-155 ,0,2,2,0,1,"[None, None]",False
+228,Kepler-181 b,11823054,Kepler-181 ,0,2,2,0,1,"[None, None]",False
+231,Kepler-619 c,10973664,Kepler-619 ,0,2,2,0,1,"[None, None]",False
+232,Kepler-598 b,5709725,Kepler-598 ,0,2,2,0,1,"[None, None]",False
+233,Kepler-148 b,9946525,Kepler-148 ,0,3,3,0,1,"[None, None, None]",False
+237,Kepler-605 b,7595157,Kepler-605 ,0,2,2,0,1,"[None, None]",False
+238,Kepler-185 c,8008206,Kepler-185 ,0,2,2,0,1,"[None, None]",False
+239,Kepler-174 c,8017703,Kepler-174 ,0,3,3,0,1,"[None, None, None]",False
+240,Kepler-164 b,10460984,Kepler-164 ,0,4,4,0,1,"[None, None, None, 0.0]",False
+243,Kepler-62 d,9002278,Kepler-62 ,0,5,5,0,1,"[None, None, None, None, None]",False
+244,Kepler-200 b,5941160,Kepler-200 ,0,2,2,0,1,"[None, None]",False
+245,Kepler-200 c,5941160,Kepler-200 ,0,2,2,0,1,"[None, None]",False
+246,Kepler-202 c,6020753,Kepler-202 ,0,2,2,0,1,"[None, None]",False
+247,Kepler-217 c,9590976,Kepler-217 ,0,3,3,0,1,"[None, None, None]",False
+250,Kepler-206 c,6442340,Kepler-206 ,0,3,3,0,1,"[None, None, None]",False
+251,Kepler-207 b,6685609,Kepler-207 ,0,3,3,0,1,"[None, None, None]",False
+252,Kepler-207 c,6685609,Kepler-207 ,0,3,3,0,1,"[None, None, None]",False
+253,Kepler-220 c,9950612,Kepler-220 ,0,4,4,0,1,"[None, None, None, None]",False
+254,Kepler-208 b,7040629,Kepler-208 ,0,4,4,0,1,"[None, None, None, None]",False
+256,Kepler-625 b,4563268,Kepler-625 ,0,2,2,0,1,"[None, None]",False
+260,Kepler-1181 c,4458082,Kepler-1181 ,0,2,2,0,1,"[None, 0.0]",False
+261,Kepler-1814 c,5942808,Kepler-1814 ,0,2,2,0,1,"[0.0, None]",False
+264,Kepler-386 b,11080405,Kepler-386 ,0,2,2,0,1,"[None, None]",False
+265,Kepler-1245 c,7604328,Kepler-1245 ,0,2,2,0,1,"[None, None]",False
+266,Kepler-1600 c,3645438,Kepler-1600 ,0,2,2,0,1,"[None, None]",False
+271,Kepler-1464 b,3632089,Kepler-1464 ,0,2,2,0,1,"[None, None]",False
+274,Kepler-990 c,9967771,Kepler-990 ,0,2,2,0,1,"[None, None]",False
+284,Kepler-154 e,11709124,Kepler-154 ,0,5,5,0,1,"[None, None, None, None, None]",False
+287,Kepler-1350 b,9823519,Kepler-1350 ,0,2,2,0,1,"[None, None]",False
+288,Kepler-365 c,11358389,Kepler-365 ,0,2,2,0,1,"[None, None]",False
