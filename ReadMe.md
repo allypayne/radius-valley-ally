@@ -16,3 +16,6 @@ This contains all of the following cuts to the original data table downloaded fr
 
 ## [Kepler_Reduced_MultiPlanet.csv](/Kepler_Reduced_MultiPlanet.csv)
 This contains all of the reduced data for only the higher multiplicity (more than one planet in system) planetary systems
+
+## [multiplanet_kepler_candidates_reduced.txt](/multiplanet_kepler_candidates_reduced.txt)
+This text file contains our complete list of finalized candidates made compatible with UW Hyak.
