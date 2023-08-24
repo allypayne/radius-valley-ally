@@ -19,3 +19,7 @@ This contains all of the reduced data for only the higher multiplicity (more tha
 
 ## [multiplanet_kepler_candidates_reduced.txt](/multiplanet_kepler_candidates_reduced.txt)
 This text file contains our complete list of finalized candidates made compatible with UW Hyak.
+
+# TESS System
+
+## [TESS_Reduced_AllSystems.csv](/TESS_Reduced_AllSystems.csv)
