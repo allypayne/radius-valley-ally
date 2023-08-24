@@ -21,5 +21,14 @@ This contains all of the reduced data for only the higher multiplicity (more tha
 This text file contains our complete list of finalized candidates made compatible with UW Hyak.
 
 # TESS System
+##
+Notebook to reduce TESS data
+
+## [Full_Data_TESS_Survey.csv](/Full_Data_TESS_Survey.csv)
+Data for all of the planetary systems downloaded from the [NASA exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative) for the TESS Survey.
 
 ## [TESS_Reduced_AllSystems.csv](/TESS_Reduced_AllSystems.csv)
+Contains all of the following cuts to the [Full_Data_TESS_Survey.csv](/Full_Data_TESS_Survey.csv) table:
+- ttv_flag=0 (no TTV in the system)
+- number of stars=1 (only one host star per planetary system)
+- eccentric?=False (cut out all planets with an eccentric planet in the system)
