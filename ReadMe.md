@@ -22,7 +22,7 @@ This contains all of the reduced data for only the higher multiplicity (more tha
 This text file contains our complete list of finalized candidates made compatible with UW Hyak.
 
 ## [Kep_all_data_3rad.csv](/kep_all_data_3rad.csv)
-- This is the original data table downloaded and reformatted into a compatible CSV file from the [NASA exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative) for the Kepler Survey.
+This is the original data table downloaded and reformatted into a compatible CSV file from the [NASA exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative) for the Kepler Survey.
 The criteria for this data set includes:
 - Exoplanet archive disposition= CONFIRMED
 - Disposition score=1
