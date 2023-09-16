@@ -1,6 +1,6 @@
 # Radius Valley File Explanations
 
-# Kepler Survey
+# Kepler Survey (Radius Valley)
 ## [Full_Data_Kepler_Survey_RECENT.csv](/Full_Data_Kepler_Survey_RECENT.csv)
 This is the original data table downloaded and reformatted into a compatible CSV file from the [NASA exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative) for the Kepler Survey.
 The criteria for this data set includes:
@@ -21,6 +21,7 @@ This contains all of the reduced data for only the higher multiplicity (more tha
 ## [multiplanet_kepler_candidates_reduced.txt](/multiplanet_kepler_candidates_reduced.txt)
 This text file contains our complete list of finalized candidates made compatible with UW Hyak.
 
+# Extended Kepler Survey (0 to 3 Earth Radii)
 ## [Kep_all_data_3rad.csv](/kep_all_data_3rad.csv)
 This is the original data table downloaded and reformatted into a compatible CSV file from the [NASA exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative) for the Kepler Survey.
 The criteria for this data set includes:
