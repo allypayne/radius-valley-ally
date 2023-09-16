@@ -1,6 +1,9 @@
 # Radius Valley File Explanations
 
 # Kepler Survey (Radius Valley)
+## [KeplerSurveyDataReductions.ipynb](/KeplerSurveyDataReductions.ipynb)
+Notebook to reduce Kepler data & create survey plots.
+
 ## [Full_Data_Kepler_Survey_RECENT.csv](/Full_Data_Kepler_Survey_RECENT.csv)
 This is the original data table downloaded and reformatted into a compatible CSV file from the [NASA exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative) for the Kepler Survey.
 The criteria for this data set includes:
