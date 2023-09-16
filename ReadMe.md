@@ -1,4 +1,6 @@
-# Radius Valley File Explanations
+# <p style="text-align: center;">Radius Valley File Explanations</p>
+
+-----------------------------------------
 
 # Kepler Survey (Radius Valley)
 ## [KeplerSurveyDataReductions.ipynb](/KeplerSurveyDataReductions.ipynb)
