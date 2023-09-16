@@ -29,6 +29,10 @@ The criteria for this data set includes:
 - Planetary Radius Cuts: between 0 to 3 Earth radii
 - Contains 1114 planets and 551 multiplanet systems
 
+## [Kepler_0to3_allySystems_CutsApplied.csv](/Kepler_0to3_allySystems_CutsApplied.csv)
+This contains all of the reduced data for all of the planetary systems in Kep_all_data_3rad.csv
+- contains 886 planets and 762 unique planetary systems
+
 # TESS Survey
 ## [TESSsurvey.ipynb](/TESSsurvey.ipynb)
 Notebook to reduce TESS data & create survey plot.
