@@ -1,6 +1,10 @@
 # <p style="text-align: center;">Radius Valley File Explanations</p>
 
 -----------------------------------------
+# [RADIUS_VALLEY_SURVEY_SAMPLE_NOTES.pdf](/RADIUS_VALLEY_SURVEY_SAMPLE_NOTES.pdf)
+A complete guide to all of the stats and data included in this project
+
+------------------------------
 
 # Kepler Survey (Radius Valley)
 ## [KeplerSurveyDataReductions.ipynb](/KeplerSurveyDataReductions.ipynb)
