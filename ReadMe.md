@@ -21,6 +21,14 @@ This contains all of the reduced data for only the higher multiplicity (more tha
 ## [multiplanet_kepler_candidates_reduced.txt](/multiplanet_kepler_candidates_reduced.txt)
 This text file contains our complete list of finalized candidates made compatible with UW Hyak.
 
+## [Kep_all_data_3rad.csv](/kep_all_data_3rad.csv)
+- This is the original data table downloaded and reformatted into a compatible CSV file from the [NASA exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative) for the Kepler Survey.
+The criteria for this data set includes:
+- Exoplanet archive disposition= CONFIRMED
+- Disposition score=1
+- Planetary Radius Cuts: between 0 to 3 Earth radii
+- Contains 1114 planets and 551 multiplanet systems
+
 # TESS Survey
 ## [TESSsurvey.ipynb](/TESSsurvey.ipynb)
 Notebook to reduce TESS data & create survey plot.
